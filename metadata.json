@@ -1,0 +1,6 @@
+{
+  "name": "Simulador RJ45 T568B",
+  "description": "Um guia interativo e simulador de crimpagem de cabos de rede RJ45 utilizando o padrão T568B, com explicações detalhadas sobre RX, TX, Gigabit e PoE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
